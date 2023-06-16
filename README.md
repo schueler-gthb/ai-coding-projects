@@ -1,6 +1,8 @@
 # ai-coding-projects
 Coding projects for university 
 #K. Schueler Artificial Intelligence university projects
+*Introduction to coding for AI 
+*Data structures and algorithms
 
 [Gender Wage Gap.csv](https://github.com/schueler-gthb/ai-coding-projects/files/11769778/Gender.Wage.Gap.csv)
 
